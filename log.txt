@@ -1,0 +1,11 @@
+commit df36ac5e78fe12e0dbfe3cd4c50f106c2cfd3e2a (HEAD -> logging, origin/master, master)
+Author: unknown <bojana.gorgievska@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:25:37 2018 +0100
+
+    Modify l1.txt
+
+commit d4dfa2858c293bf21f81c728e4baf2db7b307590
+Author: unknown <bojana.gorgievska@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:20:11 2018 +0100
+
+    Initial commit
